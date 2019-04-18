@@ -5,7 +5,7 @@ https://rocantene.github.io/portfolio/jquery_tabs/index.html
 
 ### Использованные иструменты и технологии 
 * HTML(5)
-* Jqery
+* jQuery
 
 ### Задачи:
 * С помощью jQuery создать контрол, работающий с вкладками.
